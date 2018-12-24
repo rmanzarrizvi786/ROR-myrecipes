@@ -26,3 +26,7 @@ write the test for the functionality
 build minimum code necessary to make each test 
 
 Re-factor the code - "code doesnt smell" -clean code, confidence
+
+----Important Gems--
+https://github.com/twbs/bootstrap-sass
+-gem 'bootstrap-sass', '~> 3.3.6'
