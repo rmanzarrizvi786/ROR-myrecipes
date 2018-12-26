@@ -29,4 +29,18 @@ Re-factor the code - "code doesnt smell" -clean code, confidence
 
 ----Important Gems--
 https://github.com/twbs/bootstrap-sass
--gem 'bootstrap-sass', '~> 3.3.6'
+-gem 'bootstrap-sass', '~> 3.3.6';
+----- ----- -----
+Database and 1:m association
+-Relational Database
+-SQL -Structured Query Language
+-ActiveRecord - abstraction
+-Ruby -translated to SQL
+---- ----- ---- ----- 
+Database layer, Associations
+1:m, m:m
+ORM: Object Relational Mapper
+has_many
+belongs_to
+virtual attributes are
+ORM
